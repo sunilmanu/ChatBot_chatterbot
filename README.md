@@ -21,3 +21,12 @@ INSTALLATION :-
 8)You can check the GUI interface using - http://localhost:4040/inspect
 
 
+# FLASK
+
+1)You can check the code in app.py which conists on the Flask and its other implemebntations.
+
+2)Imported all the needfull packages
+
+3)Got ready with my index.html page.
+
+4)Proccessed the user input and got the response in the html page.
