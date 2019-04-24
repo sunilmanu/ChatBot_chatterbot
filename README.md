@@ -23,10 +23,10 @@ INSTALLATION :-
 
 # FLASK
 
-1)You can check the code in app.py which conists on the Flask and its other implemebntations.
+1)You can check the code in app.py which conists the Flask and its other implementations.
 
-2)Imported all the needfull packages
+2)Imported all the needfull packages(chatterbot)
 
-3)Got ready with my index.html page.
+3)Got ready with my index.html(you can change as you like or project specific) page.
 
-4)Proccessed the user input and got the response in the html page.
+4)Proccessed the user input and got the response back in the html page.
