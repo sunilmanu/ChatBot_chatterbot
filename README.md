@@ -29,4 +29,4 @@ INSTALLATION :-
 
 3)Got ready with my index.html(you can change as you like or project specific) page.
 
-4)Proccessed the user input and got the response back in the html page.
+4)Proccessed the user input and got back the response back in the html page.
