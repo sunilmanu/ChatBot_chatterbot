@@ -1,7 +1,7 @@
 # NGROK
 
 
-ngrok: This app will help us to tunnel from our local computer(HTTP) to the interent(HTTPS) by tunneling throuh it.
+ngrok: This app will help us to tunnel from our local computer(HTTP) to the interent(HTTPS) by tunneling through it.
 
 INSTALLATION :-
 1)Go to this website https://ngrok.com/ or type ngrok in Google it will redirect to the homepage.
